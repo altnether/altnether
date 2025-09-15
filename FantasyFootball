@@ -1,7 +1,3 @@
-Perfect — here's a breakdown of what we’ll build:
-
----
-
 ## 🧠 Fantasy Football AI Web App — ESPN Integration
 
 ### 🎯 Goal
@@ -60,4 +56,3 @@ ESPN doesn’t have a public API, but there are solid workarounds using:
   * Matchup defense stats
   * Weather/injury context
   * ML model (XGBoost or linear regression)
-
